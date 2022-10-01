@@ -29,6 +29,7 @@
 |--------------    |-----------          |-----------------------------------------    |---------------------------------------------------------------------------------                                                               |
 | Exiftool         | Forensics           | https://github.com/exiftool                 | Tool for looking into meta data and other useful information related to a particular image file                                                | 
 | Binwalk          | Forensics           | https://github.com/ReFirmLabs/binwalk       | Tool for searching a given binary image for embedded files and executable code.                                                                |
+| Exifdataviewer   | Forensics           | https://exifdata.com/                       | EXIFdata.com is an online applicatation that lets you take a deeper look at your favorite images!                                                |
 
 <br>
 
